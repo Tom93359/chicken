@@ -1,0 +1,13 @@
+body{
+    background-color: darkslategray;
+}
+
+img {
+    width: 200px;
+}
+
+h4{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
